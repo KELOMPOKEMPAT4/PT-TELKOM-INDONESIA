@@ -41,8 +41,7 @@ PT TELKOM INDONESIA
    -->  
    <body onload="setInterval('updateClock()', 200);"align=right>  
      <!-- This is the container for our clock, it can be any HTML element. -->  
-     <h1 id="clock"></h1>  
-   </body>  
+     <h1 id="clock"></h1>    
 
 <hr><p>
 <center><a href ="pt.html">Home</a> - <a href ="profil.html">profil</a> - <a href ="tabel.html">tabel karyawan</a> - <a href ="kp.html">kontak perusahaan</a> 
